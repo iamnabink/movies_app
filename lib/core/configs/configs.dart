@@ -15,5 +15,6 @@ class Configs {
   /// API Key registered with The TMDB API
   ///
   /// See: https://developers.themoviedb.org/3/getting-started/introduction
-  static const String tmdbAPIKey = String.fromEnvironment('TMDB_API_KEY');
+  // static const String tmdbAPIKey = String.fromEnvironment('TMDB_API_KEY');
+  static const String tmdbAPIKey = '54f337ec74718b5374e51c32588cff1b';
 }
